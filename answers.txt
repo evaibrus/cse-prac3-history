@@ -1,0 +1,11 @@
+How many commits are there in total? 
+- There are 11 commits.
+
+When was the last commit made? 
+-The last commit was made on Mar 20, 2018
+
+Who is the author of those commits? 
+-All of the commits are made by Stopa
+
+What changes were made in the commit with the SHA-1 hash cebfb97?
+-A file was added in that commit (config.txt)
